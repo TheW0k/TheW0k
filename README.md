@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheW0k
 - 👀 I’m interested in earn Social Credits
-- 🌱 I’m currently learning Ancient Chinese
-- 💞️ I’m looking to collaborate with Anti Taiwan team
+- 🌱 I’m currently learning Java & Python
+- 💞️ I’m looking to fix logistical problems
 - 📫 How to reach me? NO!
 
 <!---
